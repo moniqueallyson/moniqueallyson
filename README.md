@@ -31,7 +31,7 @@
 
 ![](https://img.shields.io/badge/🌸%20I’m%20currently%20learning-89CFF0?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Remote%20Sensing-102230?style=for-the-badge&logo=python&logoColor=white)
 
-🫧 Currently fixing my [![Satellite Image Classification](https://img.shields.io/badge/Personal-Website-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://moniqueallyson.github.io/)
+🫧 Please visit my [![Satellite Image Classification](https://img.shields.io/badge/Personal-Website-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://moniqueallyson.github.io/)
 
 ```
 About Me:
