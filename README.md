@@ -31,6 +31,20 @@
 
 ![](https://img.shields.io/badge/🌸%20I’m%20currently%20learning-89CFF0?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Remote%20Sensing-102230?style=for-the-badge&logo=python&logoColor=white)
 
+
+```
+About Me:
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
+-------------------------
+🎓 Master Student @ University of California, Santa Barbara (UCSB)
+👩🏻‍🎓 B.S. in Environmental Studies at UCSB
+🎮 Hobbies: reading classic literature, poetry, video games, dj'ing and more!
+🧠 Main interests in Environmental Justice, Public Health, and Sustainability
+```
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
