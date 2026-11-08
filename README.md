@@ -33,4 +33,4 @@
                 ||----w |
                 ||     ||
 ````
-🔭 I’m currently working on [![Satellite Image Classification](https://img.shields.io/badge/Satellite-Image--Classification-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/jiyajahnavi/aqualculture-analysis)
+🔭 I’m currently working on [![Satellite Image Classification](https://img.shields.io/badge/Aquaculture-Analysis-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/moniqueallyson/aquaculture-analysis)
