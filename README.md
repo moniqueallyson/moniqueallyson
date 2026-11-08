@@ -38,4 +38,12 @@
 ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-89CFF0?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Remote%20Sensing-102230?style=for-the-badge&logo=python&logoColor=white)
 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+</picture>
+
+
+
 
