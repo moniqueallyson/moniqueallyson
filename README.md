@@ -5,7 +5,7 @@
 </a>
 
 <div>
-    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+    <img src="terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <p align="center"><pre>
