@@ -1,16 +1,31 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<!--
-**moniqueallyson/moniqueallyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I'm+Monique+Allyson+Hernandez;Masters+Student+at+the+Bren+School" alt="Business Analyst"/>
+</a>
 
-Here are some ideas to get you started:
+<p align="center"><pre>
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠄⠄⠄⠄⠄⠄.                                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⡀⠄⠄⠄⠄⠄                                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢏⣴⣿⡆⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄⠄⠄                                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢣⣾⣿⣿⡇⣽⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠟⠋⠁⣀⣀⡈⠙⣿⣿⣿⣿⡿⠿⠿⠿⠿⢡⣤⣄⡈⠙⢧⠄⠄⠄                                        ⡏⣼⣿⣶⣌⡙⢿⣿⣿⣿⣿⣿⣿⡿⢟⣵⡿⢿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿
+⣏⣉⣀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠷⠶⠶⠤⣉⠙⠷⣼⣇⠄⠄                                        ⡃⣿⣿⣿⣿⣿⣆⢮⣭⣭⣭⣭⣴⣾⣿⣿⣿⣿⣶⣮⣕⣙⠿⣿⣿⣿⣿⣿
+⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠄⠄⣿⣿⣶⣈⠙⣄⠄                                        ⣷⡙⣿⣿⣿⣿⣿⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣦⡹⣿⣿⣿
+⣿⣷⡶⠶⠶⠶⠒⠂⠄⠈⣽⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⣿⣿⣷⡶⠖⠄⣶                                        ⣿⢋⠸⣿⣿⡿⢏⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢁⣶⣿⣿⣷⢸⣿⣿
+⣁⣤⣴⣶⣶⠾⠟⠛⠛⢛⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⣿⣿⣿⣓⠂⠄⣤                                        ⡇⣿⣿⣶⣶⣿⣿⣿⣿⣿⣿⣷⣴⣶⣤⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿
+⠟⢛⣉⣥⣤⣶⡶⠛⢋⣉⡴⢟⣙⠶⣋⣿⣿⣿⠿⠛⠄⠛⠻⢧⡙⠾⢂⣄                                        ⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠙⠋⣿⣿⣿⢃⣾⣿⣿
+⣾⣿⣿⡿⠓⣀⠐⠲⠞⣡⣶⠟⢁⣴⠽⠛⣉⣠⣶⣿⣿⣿⣶⣤⠉⣠⣌⠻                                        ⣷⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠃⠈⡹⠈⢰⣿⣿⣿⣿
+⣿⣿⣫⣶⣾⣿⡟⣠⣤⣤⠄⣀⣤⣤⣴⣾⣿⣿⣿⣿⣿⣿⡿⢋⡄⢻⣿⣷                                        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣋⣭⣭⣤⣤⣤⣤⣶⣿⣿⡿⢸⣿⣿⣿⣿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre></p>
+
+````
+ __________________
+< Welcome everyone! >
+ ------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+````
