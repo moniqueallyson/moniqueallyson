@@ -39,8 +39,8 @@ About Me:
                            |、˜〵          
                           じしˍ,)ノ
 -------------------------
-🎓 Master Student @ University of California, Santa Barbara (UCSB)
-👩🏻‍🎓 B.S. in Environmental Studies at UCSB
+🎓 '27 Master Student @ Bren School of Environmental Science & Management @ UCSB
+👩🏻‍🎓 '26 B.S. Environmental Studies @ UCSB
 🎮 Hobbies: reading classic literature, poetry, video games, dj'ing and more!
 🧠 Main interests in Environmental Justice, Public Health, and Sustainability
 ```
