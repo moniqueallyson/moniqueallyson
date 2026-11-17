@@ -35,7 +35,7 @@
 
 [![Fire Scars Visualizations](https://img.shields.io/badge/Fire-Analysis-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/moniqueallyson/eds220-hwk4)
 
-[![Extreme Weather Impact Imagery](https://img.shields.io/badge/Weather-Analysis-blue?style=flat&logo=github&logoColor=white&color=blue&labelColor=pink)](https://github.com/moniqueallyson/extreme_weather_impact.git)
+[![Extreme Weather Impact Imagery](https://img.shields.io/badge/Weather-Analysis-blue?style=flat&logo=github&logoColor=white&color=blue&labelColor=blue)](https://github.com/moniqueallyson/extreme_weather_impact.git)
 
 🫧 Please visit my [![Satellite Image Classification](https://img.shields.io/badge/Personal-Website-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://moniqueallyson.github.io/)
 
