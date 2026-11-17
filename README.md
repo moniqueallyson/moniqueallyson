@@ -27,11 +27,12 @@
 
 </pre></p>
 
-🐚 I completed my assignment on [![Satellite Image Classification](https://img.shields.io/badge/Aquaculture-Analysis-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/moniqueallyson/aquaculture-analysis)
+🐚 Check out my completed assignment on [![Satellite Image Classification](https://img.shields.io/badge/Aquaculture-Analysis-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/moniqueallyson/aquaculture-analysis)
 
 ![](https://img.shields.io/badge/🌸%20I’m%20currently%20learning-89CFF0?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Remote%20Sensing-102230?style=for-the-badge&logo=python&logoColor=white)
 
 ❄️ I'm in the process of two projects:
+
 [![Fire Scars Visualizations](https://img.shields.io/badge/Fire-Analysis-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/moniqueallyson/eds220-hwk4)
 
 [![Extreme Weather Impact Imagery](https://img.shields.io/badge/Weather-Analysis-pink?style=flat&logo=github&logoColor=white&color=pink&labelColor=pink)](https://github.com/moniqueallyson/extreme_weather_impact.git)
